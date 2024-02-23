@@ -20,7 +20,7 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   double height = 180;
   int age = 28;
-  int weight = 65;
+  int weight = 64;
   Gender selectedGender = Gender.Male;
 
   void _goToResultScreen() {
